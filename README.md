@@ -42,6 +42,7 @@ Unlike traditional chatbots, this system uses **RAG**, which improves accuracy b
 ---
 
 ## 🏗️ Project Structure
+```bash
 RAG_for_banking_system/
 │
 ├── data/
@@ -57,7 +58,7 @@ RAG_for_banking_system/
 ├── test_interactive.py # CLI testing interface
 ├── err.py # Error handling utilities
 ├── .env # API keys (not included in repo)
-
+```
 
 ---
 
@@ -94,25 +95,39 @@ This approach reduces hallucination and improves factual accuracy in AI systems 
 
 ## 📦 Installation
 
-```bash
 # Clone repo
+```bash
 git clone https://github.com/zaynXdev/AI-Banking-Call-Agent---RAG-Based.git
-
+```
+```bash
 cd AI-Banking-Call-Agent---RAG-Based
+```
 
 # Create virtual environment
+```bash
 python -m venv .venv
+```
 
 # Activate environment
+```bash
 .venv\Scripts\activate   # Windows
-# source .venv/bin/activate  # Linux/Mac
+```
+
+# source
+```bash
+.venv/bin/activate  # Linux/Mac
+```
 
 # Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 🔑 Environment Setup
 Create a .env file:
+```bash
 OPENAI_API_KEY=your_api_key_here
+```
 ⚠️ Never commit your .env file.
 
 ▶️ Run the Project
