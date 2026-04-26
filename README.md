@@ -3,7 +3,10 @@
 An intelligent **AI-powered banking assistant** built using a **Retrieval-Augmented Generation (RAG)** pipeline.  
 This system answers banking-related queries by retrieving relevant information from custom documents and generating accurate, context-aware responses using LLMs.
 
-Video Link : https://www.linkedin.com/posts/zain-khan-509b77269_ai-fintech-bankingtechnology-ugcPost-7377732286621945856-P5RA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHYvRkBcWGYoJwRXUHKYLrUQ2dmxuGgNzU
+---
+
+### Video Link : https://www.linkedin.com/posts/zain-khan-509b77269_ai-fintech-bankingtechnology-ugcPost-7377732286621945856-P5RA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHYvRkBcWGYoJwRXUHKYLrUQ2dmxuGgNzU
+
 ---
 
 ## 🚀 Overview
